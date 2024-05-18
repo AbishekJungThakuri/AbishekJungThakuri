@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Abishek Shahi Thakuri</h1>
 <h3 align="center">Just a Student doing student things.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://https://media.licdn.com/dms/image/C4E12AQFOOLHIyyQbAA/article-cover_image-shrink_600_2000/0/1651724687903?e=2147483647&v=beta&t=dALQxbSyA1rMvAzVmF6TbhhC2nuRyX2CL4iJXpJfK6E">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbishekJungThakuri&label=Profile%20views&color=0e75b6&style=flat" alt="AbishekJungThakuri" /> </p>
 
